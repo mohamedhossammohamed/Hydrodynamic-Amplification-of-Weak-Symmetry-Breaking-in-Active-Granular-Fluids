@@ -1,6 +1,8 @@
-MIT License
+MIT License (Code) & CC-BY 4.0 (Data/Text)
 
-Copyright (c) 2025 mohamedhossammohamed
+Part 1: SOFTWARE (Simulation Scripts)
+-------------------------------------
+Copyright (c) 2025 Mohamed Hosam Mohamed Aly Zahran
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +21,17 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Part 2: RESEARCH ASSETS (Paper, Data, Figures)
+----------------------------------------------
+The non-software content of this repository, including but not limited to:
+- The research paper text and abstract
+- The CSV datasets (cold_flow_results.csv, ramp_results.csv)
+- The generated figures and plots
+
+Are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
+
+ATTRIBUTION REQUIREMENT:
+Any use of the data, text, or figures must cite the original author:
+Zahran, M. H. M. A. (2025). Hydrodynamic Amplification of Weak Symmetry Breaking in Active Granular Fluids.
