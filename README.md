@@ -2,7 +2,7 @@
 Resolving the "directional selection puzzle," this study uses GPU simulations of 12,000 particles to identify hydrodynamic amplification. It demonstrates that at intermediate densities, fluid coupling amplifies weak biases by ~17x, triggering a sharp phase transition (\beta_c \approx 0.92) into locked vortex 
 
 Copyright (c) 2025 Mohamed Hosam Mohamed Aly Zahran
-
+DOI 10.5281/zenodo.18041105
 
 
 
